@@ -1,0 +1,2 @@
+﻿  test_2.c
+LINK : fatal error LNK1168: 无法打开 D:\C++项目集\test_2\x64\Debug\test_2.exe 进行写入
