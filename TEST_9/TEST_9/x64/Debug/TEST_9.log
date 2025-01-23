@@ -1,0 +1,4 @@
+﻿  test_1.c
+D:\C++项目集\TEST_9\TEST_9\test_1.c(492,14): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\C++项目集\TEST_9\TEST_9\test_1.c(501,9): warning C4477: “printf”: 格式字符串“%lf”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+  TEST_9.vcxproj -> D:\C++项目集\TEST_9\x64\Debug\TEST_9.exe

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\u9879\u76EE\u96C6\\TEST_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F41D5258-6420-4E39-8FEB-BA5C0DBB4654}|TEST_10\\TEST_10.vcxproj|D:\\C\u002B\u002B\u9879\u76EE\u96C6\\TEST_10\\TEST_10\\test_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F41D5258-6420-4E39-8FEB-BA5C0DBB4654}|TEST_10\\TEST_10.vcxproj|solutionrelative:TEST_10\\test_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41D5258-6420-4E39-8FEB-BA5C0DBB4654}|TEST_10\\TEST_10.vcxproj|D:\\C\u002B\u002B\u9879\u76EE\u96C6\\TEST_10\\TEST_10\\test_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F41D5258-6420-4E39-8FEB-BA5C0DBB4654}|TEST_10\\TEST_10.vcxproj|solutionrelative:TEST_10\\test_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_2.c",
+              "DocumentMoniker": "D:\\C\u002B\u002B\u9879\u76EE\u96C6\\TEST_10\\TEST_10\\test_2.c",
+              "RelativeDocumentMoniker": "TEST_10\\test_2.c",
+              "ToolTip": "D:\\C\u002B\u002B\u9879\u76EE\u96C6\\TEST_10\\TEST_10\\test_2.c*",
+              "RelativeToolTip": "TEST_10\\test_2.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-07T06:59:06.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_1.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\u9879\u76EE\u96C6\\TEST_10\\TEST_10\\test_1.cpp",
+              "RelativeDocumentMoniker": "TEST_10\\test_1.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\u9879\u76EE\u96C6\\TEST_10\\TEST_10\\test_1.cpp",
+              "RelativeToolTip": "TEST_10\\test_1.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T05:19:35.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
